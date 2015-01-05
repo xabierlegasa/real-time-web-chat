@@ -9,3 +9,7 @@ I've fixed some errors from the tutorial
 Run
 -----------
 <code>real-time-web-chat$ nodejs index.js</code>
+
+Action
+-----------
+http://127.0.0.1:3700/
