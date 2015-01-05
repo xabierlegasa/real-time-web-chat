@@ -9,8 +9,11 @@ I've fixed some errors from the tutorial
 Run
 -----------
 download dependencies via npm (node.js package manager)
+
 <code>npm install</code>
+
 run the server
+
 <code>nodejs index.js</code>
 
 Action
