@@ -8,7 +8,10 @@ I've fixed some errors from the tutorial
 
 Run
 -----------
-<code>real-time-web-chat$ nodejs index.js</code>
+download dependencies via npm (node.js package manager)
+<code>npm install</code>
+run the server
+<code>nodejs index.js</code>
 
 Action
 -----------
